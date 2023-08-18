@@ -8,18 +8,6 @@ Currently, I am focusing on
 - Spark, Kafka, Flink, Iceberg(?).
 - Kubernetes.
 - Platform engineering.
-  
-In the past, I have 
-- Helped ML engineers to get their data ready to use, and / or providing self-serving platforms to do so.
-- Developed data pipelines
-  - providing user insights for a e-commerce company.
-  - stitching user identities for another e-commerce company.
-  - extracting data from PubMed for a AI medical software.
-  - extracing and processing ImageNet dataset.
-  - and what not. 
-- Consulted on various topics, such as
-  - data platform (data lake, data warehouse, ...)
-  - data ochestration and processing
  
 ### Contact me :speech_balloon:
 - 👔&nbsp;LinkedIn: [@TiansuYu](https://www.linkedin.com/in/tiansuyu/)
