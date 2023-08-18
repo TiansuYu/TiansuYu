@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-I am an engineering currently working at Klarna. 
+I am an engineering currently working at Klarna.
 
 Currently, I am focusing on
 - Python. Advocating a more schemaful approach to process data.
@@ -20,6 +20,9 @@ In the past, I have
 - Consulted on various topics, such as
   - data platform (data lake, data warehouse, ...)
   - data ochestration and processing
+ 
+### Contact me :speech_balloon:
+- 👔&nbsp;LinkedIn: [@TiansuYu](https://www.linkedin.com/in/tiansuyu/)
 
 ### Tech Stacks
 - Languages: Python, Java, Scala, Typescript
