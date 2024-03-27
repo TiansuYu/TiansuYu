@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-I am an engineering currently working at Klarna.
+I am an Engineer at Klarna. 
 
 Currently, I am focusing on
 - Python. Advocating a more schemaful approach to process data.
